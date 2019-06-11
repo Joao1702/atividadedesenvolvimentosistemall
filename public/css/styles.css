@@ -1,0 +1,28 @@
+body#usuarios{
+    background-image: url('../images\ \(4\).jpg');
+    background-size: 50%;
+    background-color: rgb(151, 69, 69);
+}
+input#inputEmail4{
+    background-color: rgba(red, green, blue,.3)
+}
+
+
+
+body#tarefa{
+    background-repeat: no-repeat;
+    background-size: 400px 300px;
+    background-position-x: right;
+}
+input#inputEmail4{
+    background-color: rgba(red, green, blue,.1)
+}
+
+body#tipo_de_tarefa{
+    background-image: url('../images.jpg');
+    background-size: 50%;
+    background-color: rgb(151, 69, 69);
+}
+input#inputEmail4{
+    background-color: rgba(red, green, blue,.3)
+}
